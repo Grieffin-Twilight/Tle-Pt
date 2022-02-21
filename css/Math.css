@@ -1,12 +1,14 @@
-body {background-image: url(/images/Math.JPG);}
-ul{list-style-type: none; background-color: #99badd;
+ul{list-style-type: none; background-color: hotpink;
 }
 li {display: inline;
 padding:1px ;
 font-size:30px ;
 margin:120px ;}
-li:hover{background-color: blueviolet;}
- 
-.t {padding: 6px;}
-.thanks{font-size: 60px;
-font-weight: bold;}
+li:hover{background-color: crimson;}
+body {background-color: #fbcce7;
+background-image: radial-gradient(circle,#fbcce7, #e4717a );} 
+
+    .t {padding: 6px;}
+
+    .thanks{font-size: 60px;
+    font-weight: bold;}
