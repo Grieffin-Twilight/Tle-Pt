@@ -4,18 +4,37 @@
     <head>
         <title>Math PT</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="/Css/Cae.css">
+        <link rel="stylesheet" href="/css/cae.css">
         <style>
 
         </style>
     </head>
     <body text="#4C516D">
       
-        <center><li class="Link1"><a class="Link1" href="/actual-projects/homepage.html">back </a></li>
-        <li class="Link1"><a class="Link1" href="/actual-projects/cle.html">cle </a></li>
-        <li class="Link1"><a class="Link1" href="#"><b>cae </a></li>
-        <li class="Link1"><a class="Link1" href="/actual-projects/Math.html">math </a></li> </center>
-    </ul>
+        <div class="t" style="display:none" id="mySidebar">
+            <button onclick="Deactivate()" class="L"><img src="/images/Go back.jpg"> </button>
+            <a href="/actual-projects/Math.html" class="R"><img src="/images/plus.jpg"></a>
+            <a href="#" class="R"><img src="/images/newspaper.jpg" filter="10px"></a>
+            <a href="/actual-projects/cle.html" class="R"><img src="/images/bible.jpg"></a>
+            <a href="/actual-projects/homepage.html" class="R"><img src="/images/Dots.jpg"></a>
+          </div>
+        
+          <div class="Vi">
+            <button class="C" onclick="Activate()"><img src="/images/X.png"></button>
+            <div class="container">
+              <h1>CAE</h1>
+            </div>
+          </div>
+          
+          <script>
+          function Activate() {
+            document.getElementById("mySidebar").style.display = "block";
+          }
+          
+          function Deactivate() {
+            document.getElementById("mySidebar").style.display = "none";
+          }
+          </script>
           <br>
           <br>
           <br>
