@@ -1,3 +1,4 @@
 p{font-size: 150px;
 font-family:Impact;}
-body {background-color: rgb(186, 75, 241);}
+body {background-color: #FFD700;
+background-image: radial-gradient(circle,white,#FFD700);}
