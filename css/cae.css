@@ -1,16 +1,9 @@
-ul{list-style-type: none; background-color: #99badd;
-}
-li {display: inline;
-padding:1px ;
-font-size:30px ;
-margin:120px ;}
-li:hover{background-color: blueviolet;}
-    body {
-        background-color:#2E5894 ; 
-        background-image: radial-gradient(circle, white, #2E5894);
-      } 
-        
+img {width:100px ;
+    height:100px ;
+    border-radius: 100%;
+    }
+    body{background-color: #99badd;
+    background-image: radial-gradient(circle, white, #4C516D);}
     .t {padding: 6px;}
     .thanks{font-size: 60px;
-    font-weight: bold; }
-    
+    font-weight: bold;}
