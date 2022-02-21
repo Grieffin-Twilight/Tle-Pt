@@ -1,0 +1,13 @@
+body{background-image:url(/images/Polka.jpg);}
+ul.pop{list-style-type: none; background-color: whitesmoke; }
+li.Link1{display: inline;
+padding: 1px;
+font-size: 30px;
+margin: 120px}
+table{font-size: 40px;
+background-color: azure;
+border-color:turquoise ;}
+li:hover{font-weight: bold;
+background-color: aqua;}
+caption {background-color: azure;}
+

@@ -1,0 +1,36 @@
+
+header{position: sticky;
+top:0; }
+ul {list-style-type: none;
+background-color:#98c2f8;}
+
+li {display:inline
+    ; padding: 70px; 
+    margin: 11px ;
+    }
+.jojo {font-weight: bold;
+font-size: 80px;}
+
+    
+    li:hover {filter:blur(10px);}
+
+ body{background-image: url("/images/Dots.jpg");}
+  
+
+img.inazauma {object-fit:cover ;
+    width: 230px ;
+    height: 230px;
+    border-radius: 100% ;
+filter:blur(0px); 
+border: black; 
+;}
+
+p {font-size:30px ;
+    font-family: cursive;}
+table {font-size: 30px;
+margin:10px ;
+padding: 15px; ;
+background-color: cornflowerblue;
+background-image: linear-gradient(180deg, rgb(121, 168, 255), #8c7af3);
+border-color: #62bffd;}
+

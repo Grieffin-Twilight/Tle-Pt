@@ -1,0 +1,13 @@
+ul {list-style-type: none ;
+    margin: 0px ;
+padding: 0px; background-color:  black;}
+
+
+
+li {display: inline-block;
+font-size: 15px;
+margin:10px;
+padding: 10px;
+background-color: white;}
+/*change link color when hover */
+li:hover {background-color: thistle; }
