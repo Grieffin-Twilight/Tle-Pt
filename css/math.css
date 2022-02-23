@@ -1,5 +1,5 @@
 body{background-image: url(/images/Math.JPG);}
-img {width:100px ;
+img.b {width:100px ;
 height:100px ;
 border-radius: 100%;
 }
@@ -10,5 +10,5 @@ button {width:100px ;
 .t {padding: 6px;}
 .thanks{font-size: 60px;
 font-weight: bold;}
-img.a {width:200px;
-    height:200px;}
+img.a {width:400px;
+    height:400px;}
