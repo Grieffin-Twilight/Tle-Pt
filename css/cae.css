@@ -1,4 +1,4 @@
-img {width:100px ;
+img.a {width:100px ;
     height:100px ;
     border-radius: 100%;
     object-fit: cover;}
@@ -11,3 +11,9 @@ img {width:100px ;
     .t {padding: 6px;}
     .thanks{font-size: 60px;
     font-weight: bold;}
+img.b {width: 500px;
+height: 700px;
+padding: 1px;
+margin: 10px}
+caption {font-size: 40px;
+font-weight: bold;}
